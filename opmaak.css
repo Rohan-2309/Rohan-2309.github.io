@@ -1,24 +1,27 @@
 body {
-    background-color: rgb(167, 245, 58);
+    background-color: rgb(118, 195, 10);
     }
     /*Hiermee geef ik de achtergrond kleur van mijn website aan*/
+
     h1 {
       color: Black;
       text-align: center;
-      text-decoration-line: blink;
+      text-decoration-line: underline;
     }
     /*Hiermee geef ik de letterkleur, plaats en een lijn onder de titel aan*/
+
     p {
       font-family: Arial;
       font-size: medium;
     }
     /*Hiermee geef ik de lettertype en lettergrote aan van mijn tekst*/
+
     ul
     a:link, a:visited {
       background-color:rgb(5, 111, 249);
       color: black;
       padding: 14px 16px;
-      width: 215px;
+      width: 230px;
       text-align: center;
       text-decoration: none;
       display: inline-block;
