@@ -1,11 +1,11 @@
 body {
-    background-color: LightCyan;
+    background-color: rgb(167, 245, 58);
     }
     /*Hiermee geef ik de achtergrond kleur van mijn website aan*/
     h1 {
       color: Black;
       text-align: center;
-      text-decoration-line: underline;
+      text-decoration-line: blink;
     }
     /*Hiermee geef ik de letterkleur, plaats en een lijn onder de titel aan*/
     p {
