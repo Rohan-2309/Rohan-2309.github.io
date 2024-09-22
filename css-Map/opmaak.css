@@ -153,5 +153,5 @@ body {
   }
   
   .dropdown:hover .dropdown-subcontent {
-    display: none;
+    display: block;
   }
