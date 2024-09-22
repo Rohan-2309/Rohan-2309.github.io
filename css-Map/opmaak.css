@@ -148,6 +148,7 @@ body {
   
   .dropdown-subcontent a:hover {
     background-color: #ddd;
+    display: none;
   }
   
   .dropdown:hover .dropdown-subcontent {
