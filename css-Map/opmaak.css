@@ -85,7 +85,7 @@ body {
   .subdropdown {
     float: left;
     overflow: hidden;
-    display: none;
+    display: block;
   }
   
   .dropdown .dropbtn {
@@ -149,7 +149,7 @@ body {
   
   .dropdown-subcontent a:hover {
     background-color: #ddd;
-    display: none;
+    display: block;
   }
   
   .dropdown:hover .dropdown-subcontent {
