@@ -161,7 +161,7 @@ body {
   
   .second-level-menu > li
   {
-      position: relative;
+      position: static;
       height: 30px;
       background: #999999;
   }
