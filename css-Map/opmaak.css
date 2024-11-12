@@ -162,7 +162,7 @@ body {
   .second-level-menu > li
   {
       position: relative;
-      height: 30px;
+      height: 50px;
       background: #999999;
   }
   .second-level-menu > li:hover { background: #CCCCCC; }
