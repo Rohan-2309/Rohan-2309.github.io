@@ -132,7 +132,7 @@ body {
   {
       position: absolute;
       top: 0;
-      right: 150px;
+      right: -200px;
       width: 150px;
       list-style: none;
       padding: 0;
@@ -142,7 +142,7 @@ body {
   
   .third-level-menu > li
   {
-      height: 80px;
+      height: 50px;
       background: #999999;
   }
   .third-level-menu > li:hover { background: #CCCCCC; }
