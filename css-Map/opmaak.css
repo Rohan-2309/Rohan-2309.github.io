@@ -142,7 +142,7 @@ body {
   
   .third-level-menu > li
   {
-      height: 30px;
+      height: 80px;
       background: #999999;
   }
   .third-level-menu > li:hover { background: #CCCCCC; }
